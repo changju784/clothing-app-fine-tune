@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data/outputs (keep only small samples in repo)
+data/
+outputs/
+
+# Model artifacts (LFS will still allow pushing tracked files)
+final_model/*.safetensors
+final_model/*.bin
+final_model/*.pt
+EOF

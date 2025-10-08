@@ -1,0 +1,9 @@
+torch>=2.2
+transformers>=4.44
+datasets>=2.20
+evaluate>=0.4
+accelerate>=0.33
+scikit-learn>=1.4
+pillow
+tqdm
+EOF
