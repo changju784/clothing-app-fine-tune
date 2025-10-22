@@ -1,5 +1,5 @@
-# Clothing Classification Fine-Tuning (powered by DeepFashion2)
-
+# Clothing Classification Fine-Tuning
+ (powered by DeepFashion2)
 This repository contains an **end-to-end fine-tuning pipeline** for adapting a Vision Transformer (ViT) model to a **500-image subset of the [DeepFashion2](https://github.com/switchablenorms/DeepFashion2)** dataset.
 
 ![alt text](image.png)
